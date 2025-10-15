@@ -2,7 +2,8 @@
 
 This project uses the YOLOv8 object detection model to detect and track vehicles in a video stream and calculate their real-time speed. It applies a perspective transformation to map pixel coordinates to real-world coordinates for accurate speed estimation.
 
-![Project Demo GIF](https://via.placeholder.com/600x300.png?text=Add+a+GIF+of+your+project+here!)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a6a23d5a-11f8-44d0-982f-44fd02cd920d" />
+
 
 ## 📋 Features
 - **Object Detection**: Utilizes a pre-trained YOLOv8x model for robust vehicle detection.
