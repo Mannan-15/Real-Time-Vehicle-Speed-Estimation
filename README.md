@@ -5,20 +5,20 @@ This project uses the YOLOv8 object detection model to detect and track vehicles
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a6a23d5a-11f8-44d0-982f-44fd02cd920d" />
 
 
-## 📋 Features
+## Features
 - **Object Detection**: Utilizes a pre-trained YOLOv8x model for robust vehicle detection.
 - **Object Tracking**: Employs ByteTrack for consistent tracking of vehicles across frames.
 - **Perspective Transformation**: Converts video pixel coordinates to a real-world coordinate system to enable accurate distance measurement.
 - **Speed Calculation**: Estimates the speed of each tracked vehicle in km/h based on distance traveled over time.
 
-## 💻 Technologies Used
+## Technologies Used
 - **Python 3.x**
 - **Ultralytics YOLOv8**
 - **Supervision**
 - **OpenCV**
 - **NumPy**
 
-## 🚀 Setup and Installation
+## Setup and Installation
 
 **1. Clone the repository:**
 ```bash
